@@ -1,4 +1,4 @@
-# 🌒 Cuenta atrás y alarma para el eclipse de 12/08/2026 en Zaragoza
+# <img width="40" height="40" alt="icon" src="https://github.com/user-attachments/assets/2ba50cca-beec-4224-8bec-6276ae45f15e" /> Cuenta atrás y alarma para el eclipse de 12/08/2026 en Zaragoza
 
 <div align="center">
   <img width="300" alt="captura pantalla de la app" src="https://github.com/user-attachments/assets/3ab756e6-7e12-486a-a8f3-390d64c98707" />
