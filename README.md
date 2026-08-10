@@ -1,4 +1,4 @@
-# 🌒 Calculadora de Eclipses: Zaragoza 2026
+# 🌒 Cuenta atrás y alarma para el eclipse de 12/08/2026 en Zaragoza
 
 <div align="center">
   <img width="300" alt="captura pantalla de la app" src="https://github.com/user-attachments/assets/3ab756e6-7e12-486a-a8f3-390d64c98707" />
