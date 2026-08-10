@@ -25,7 +25,7 @@ Aplicación nativa para Android diseñada específicamente para el seguimiento e
 
 La aplicación se distribuye de manera libre y no requiere acceso a tiendas oficiales. Puedes instalarla directamente siguiendo estos pasos:
 
-1. Dirígete a la sección de **[Releases](../../releases/latest)** en el menú lateral derecho de este repositorio.
+1. Dirígete a la sección de **[Releases](https://github.com/mpizarrotig/alarmas-eclipse/releases/latest)** de este repositorio.
 2. En la última versión publicada, despliega "Assets" y descarga el archivo **`app-release.apk`** directamente en tu dispositivo móvil.
 3. Abre el archivo descargado para iniciar la instalación.
 
